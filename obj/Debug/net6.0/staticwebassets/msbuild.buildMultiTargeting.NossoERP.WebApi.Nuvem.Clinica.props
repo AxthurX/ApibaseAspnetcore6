@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NossoERP.WebApi.Nuvem.Clinica.props" />
+</Project>
